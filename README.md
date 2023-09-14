@@ -21,5 +21,5 @@
 	- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-<h3 align="left">Connect with me</h3>
+- Connect with me
 	[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/anderson-ramalho/)
