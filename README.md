@@ -3,7 +3,7 @@
 ### Sou o Anderson, sou formado em Logística, buscando aprender programação e me desenvolver na área 
 ### Tenho experiência em SAP nos módulos SD, MM, TM e Dados Mestres (BP e MM) e também um pouco de FI, mais voltado para o Fiscal atualizando informações na J1BTAX, tabelas de preço, e transações relacionadas como SM30 e J1B1N.
 
-### Analista Jr 
+### Analista Pleno 
 
 ### Iniciando em:
 - Python
