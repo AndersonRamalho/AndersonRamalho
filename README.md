@@ -1,9 +1,23 @@
 ## Hi There! 👋
 
 ### Sou o Anderson, sou formado em Logística, buscando aprender programação e me desenvolver na área 
-### Tenho experiência em SAP nos módulos SD, MM, TM e Dados Mestres (BP e MM) e também um pouco de FI, mais voltado para o Fiscal atualizando informações na J1BTAX, tabelas de preço, e transações relacionadas como SM30 e J1B1N.
+### Profissional com experiência em Supply Chain e Logística, atuando na análise de dados e indicadores operacionais para melhoria de performance e tomada de decisão.
 
-### Analista Pleno 
+Possuo experiência no acompanhamento e análise de KPIs logísticos como Fill Rate, OTIF, OCT e VNE, utilizando ferramentas como Power BI, Excel avançado (VBA) e SAP S/4 HANA para transformar dados operacionais em insights estratégicos.
+Atuo no desenvolvimento de dashboards e relatórios automatizados que aumentam a visibilidade dos indicadores logísticos e apoiam áreas de planejamento, operação e gestão na tomada de decisão baseada em dados.
+
+Participei da implementação do SAP S/4 HANA como Key User nos módulos MM e SD, atuando na interface entre áreas de negócio e consultorias técnicas, contribuindo para melhorias de processos e maior confiabilidade das informações.
+Tenho forte interesse em Supply Chain Analytics e Business Intelligence aplicados à logística, buscando continuamente evoluir minhas habilidades em Power BI, SQL e análise de dados para apoiar decisões mais estratégicas dentro das operações de Supply Chain.
+
+Principais áreas de atuação e ferramentas:
+• Supply Chain & Logistics Analytics
+• Análise de KPIs Logísticos (Fill Rate, OTIF, OCT)
+• Power BI (Dashboards, Power Query e DAX)
+• Excel Avançado (VBA e automação de relatórios)
+• SAP S/4 HANA (MM, SD, TM, IBP)
+• Análise de custos logísticos e frete
+
+
 
 ### Iniciando em:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
