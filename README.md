@@ -10,12 +10,12 @@ Participei da implementação do SAP S/4 HANA como Key User nos módulos MM e SD
 Tenho forte interesse em Supply Chain Analytics e Business Intelligence aplicados à logística, buscando continuamente evoluir minhas habilidades em Power BI, SQL e análise de dados para apoiar decisões mais estratégicas dentro das operações de Supply Chain.
 
 Principais áreas de atuação e ferramentas:
-• Supply Chain & Logistics Analytics
-• Análise de KPIs Logísticos (Fill Rate, OTIF, OCT)
-• Power BI (Dashboards, Power Query e DAX)
-• Excel Avançado (VBA e automação de relatórios)
-• SAP S/4 HANA (MM, SD, TM, IBP)
-• Análise de custos logísticos e frete
+- Supply Chain & Logistics Analytics
+- Análise de KPIs Logísticos (Fill Rate, OTIF, OCT)
+- Power BI (Dashboards, Power Query e DAX)
+- Excel Avançado (VBA e automação de relatórios)
+- SAP S/4 HANA (MM, SD, TM, IBP)
+- Análise de custos logísticos e frete
 
 
 
