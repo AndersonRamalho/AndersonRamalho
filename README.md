@@ -23,11 +23,7 @@ São mais de 14 anos em Supply Chain, Operações e Inteligência Comercial. Hoj
 Português (nativo) · Inglês (avançado) · Espanhol (intermediário)
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/anderson-ramalho/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/anderson-ramalho/)
 
 ---
 *EN: Commercial Intelligence Analyst with 14+ years in Supply Chain, Operations and Sales Analytics — forecast accuracy, demand planning, sell-in/sell-out and SAP S/4HANA (Key User).*
-
-
-- Connect with me
-	- [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/anderson-ramalho/)
